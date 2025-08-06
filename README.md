@@ -19,8 +19,9 @@ This is a **console-based tool** – you run it through your terminal or command
 
 1. **Compile the program:**
 
-   ```bash
+```
    javac searchReplace.java
+```
 2. **Run the program:**
 
 ```
