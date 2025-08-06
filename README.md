@@ -23,10 +23,9 @@ This is a **console-based tool** – you run it through your terminal or command
    javac searchReplace.java
 2. **Run the program:**
 
-bash
-Copy
-Edit
+```
 java searchReplace
+```
 
 ### Follow the prompts:
 Please enter a string: hello world, hello user!
